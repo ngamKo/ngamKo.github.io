@@ -1,7 +1,5 @@
 % 課題１　標本化間隔と空間解像度
 
-clear; % 変数のオールクリア
-
 ORG=imread('nk.png'); 
 imagesc(ORG); axis image; 
 pause; 
