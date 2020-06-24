@@ -1,4 +1,5 @@
 % 課題１　標本化感覚と空間解像度
+% 20kx013 コウシュンリン
 
 ORG = imread('nk.png'); % 原画像の入力
 imagesc(ORG);
