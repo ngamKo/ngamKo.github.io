@@ -1,4 +1,5 @@
 % 課題６　画像の二値化
+% 20kx013 コウシュンリン
 
 ORG=imread('nk.png'); % 原画像の入力
 ORG = rgb2gray(ORG);
